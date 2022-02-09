@@ -11,7 +11,7 @@ static void Main(string[] args)
   {
     const string name = "Kevin";
     int age = 28;
-    srting status = "dev learning C# and .NET";
+    string status = "dev learning C# and .NET";
 
     Console.WriteLine($"Hey! I'm {name}, a {age} years old {status}.")
   }
