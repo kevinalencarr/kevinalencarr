@@ -17,7 +17,7 @@ static void Main(string[] args)
   }
 ```
 
-## Stats, Tools & More 
+## Stats, Tools & More 💻
 
 <div style="display: inline_block"><br>
    <a href="#"><img align="center" alt="CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
