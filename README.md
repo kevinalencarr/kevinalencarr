@@ -6,16 +6,16 @@
 
   <img align="right" width="300" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"/>
 
-  ```c#
-  static void Main(string[] args)
-    {
-        const string name = "Kevin";
-        int age = 28;
-        srting status = "dev learning C# and .NET";
+```c#
+static void Main(string[] args)
+  {
+    const string name = "Kevin";
+    int age = 28;
+    srting status = "dev learning C# and .NET";
 
-        Console.WriteLine($"Hey! I'm {name}, a {age} years old {status}.")
-    }
-  ```
+    Console.WriteLine($"Hey! I'm {name}, a {age} years old {status}.")
+  }
+```
 
 ## Stats & Tools
 <div style="display: inline_block"><br>
