@@ -13,7 +13,7 @@ static void Main(string[] args)
     int age = 28;
     string status = "dev learning C# and .NET";
 
-    Console.WriteLine($"Hey! I'm {name}, a {age} years old {status}.")
+    Console.WriteLine($"Hey! I'm {name}, a {age} years old {status}.");
   }
 ```
 
