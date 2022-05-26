@@ -1,10 +1,10 @@
+<img align="right" width="270" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"/>
+
 ## Hey 👋🏼
 
 - 🧑🏻 Meu nome é Kevin, e a culpa é do seriado Anos Incríveis.
 - ✍🏻 Sou um jornalista virando dev. Trabalho há cinco anos com divulgação científica.
 - 👨🏻‍💻 Atualmente estudo C# | .NET, com foco na carreira de back-end.
-
-<img align="right" width="270" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"/>
 
 ```c#
 static void Main(string[] args)
