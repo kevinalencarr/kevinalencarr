@@ -1,6 +1,6 @@
-<img align="right" width="270" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"/>
-
 ## Hey 👋🏼
+
+<img align="right" width="270" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"/>
 
 - 🧑🏻 Meu nome é Kevin, e a culpa é do seriado Anos Incríveis.
 - ✍🏻 Sou um jornalista virando dev. Trabalho há cinco anos com divulgação científica.
