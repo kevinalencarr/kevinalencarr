@@ -19,7 +19,7 @@ static void Main(string[] args)
 
 <div style="display: inline_block"><br>
    <a href="#"><img align="center" alt="CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
-   <a href="#"><img align="center" alt="DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-original-wordmark.svg"></a>
+   <a href="#"><img align="center" alt="DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dot-net/dot-net-plain-wordmark.svg"></a>
    <a href="#"><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
   <a href="#"><img align="center" alt="SQLServer" height="40" width="50" src="http://code.benco.io/icon-collection/azure-icons/SQL-Server.svg"></a>
    <a href="#"><img align="left" alt="kevinalencar-pic" height="120" src="https://pbs.twimg.com/media/EW-XDT3XQAE5fV4?format=jpg&name=small"></a>
