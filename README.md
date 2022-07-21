@@ -1,8 +1,8 @@
 ## Hey 👋🏼
 
-- 🧑🏻 Meu nome é Kevin, e a culpa é do seriado Anos Incríveis.
-- ✍🏻 Sou um jornalista virando dev. Trabalho há cinco anos com divulgação científica.
-- 👨🏻‍💻 Atualmente estudo C# | .NET, com foco na carreira de back-end.
+- 🧑🏻 My name is Kevin, and *The Wonder Years* TV show is to blame.
+- ✍🏻 I'm a journalist becoming a dev. I've been working with science communication for five years.
+- 👨🏻‍💻 Currently focusing on back-end development, mainly with .NET.
 
 ```c#
 static void Main(string[] args)
