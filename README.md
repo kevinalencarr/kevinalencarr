@@ -15,8 +15,7 @@ static void Main(string[] args)
     Console.WriteLine($"Hey! I'm {name}, a {age} years old {status}.");
   }
 ```
-
----!>
+--->
 
 ## Stats, Tools & More 💻
 
