@@ -4,6 +4,7 @@
 - ✍🏻 I'm a journalist becoming a dev. I've been working with science communication for five years.
 - 👨🏻‍💻 Currently focusing on back-end development, mainly with .NET.
 
+<!---
 ```c#
 static void Main(string[] args)
   {
@@ -14,6 +15,7 @@ static void Main(string[] args)
     Console.WriteLine($"Hey! I'm {name}, a {age} years old {status}.");
   }
 ```
+---!>
 
 ## Stats, Tools & More 💻
 
