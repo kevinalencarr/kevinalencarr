@@ -1,8 +1,8 @@
 ## Hey 👋🏼
 
 - 🧑🏻 My name is Kevin, and *The Wonder Years* TV show is to blame.
-- ✍🏻 I'm a journalist becoming a dev. I've been working with science communication for five years.
-- 👨🏻‍💻 Currently focusing on back-end development, mainly with .NET.
+- ✍🏻 I was a journalist before becoming a dev, having worked with science communication for seven years.
+- 👨🏻‍💻 Currently focusing on full strack development, mainly with .NET and Angular.
 
 
 ## Stats, Tools & More 💻
@@ -19,8 +19,5 @@
 
 <div> 
     <a href="mailto:kevinribeiroalencar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kevinalencar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  
-  ![Snake animation](https://github.com/kevinalencarr/kevinalencarr/blob/output/github-contribution-grid-snake.svg)
-  
+    <a href="https://www.linkedin.com/in/kevinalencar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 </div>
