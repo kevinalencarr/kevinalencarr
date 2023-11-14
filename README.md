@@ -2,7 +2,7 @@
 
 - 🧑🏻 My name is Kevin, and *The Wonder Years* TV show is to blame.
 - ✍🏻 I was a journalist before becoming a dev, having worked with science communication for seven years.
-- 👨🏻‍💻 Currently focusing on full strack development, mainly with .NET and Angular.
+- 👨🏻‍💻 Currently focusing on full stack development, mainly with .NET and Angular.
 
 
 ## Tools 💻
