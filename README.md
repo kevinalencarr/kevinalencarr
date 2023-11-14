@@ -4,7 +4,7 @@
 - ✍🏻 I was a journalist before becoming a dev, having worked with science communication for seven years.
 - 👨🏻‍💻 Currently focusing on full stack development, mainly with .NET and Angular.
 
-
+<!---
 ## Tools 💻
 
 <div style="display: inline_block"><br>
@@ -13,6 +13,7 @@
    <a href="#"><img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
    <a href="#"><img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"></a>
 </div>
+-->
 
 ##
 
