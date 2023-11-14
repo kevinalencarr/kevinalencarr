@@ -10,8 +10,8 @@
 <div style="display: inline_block"><br>
    <a href="#"><img align="center" alt="CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"></a>
    <a href="#"><img align="center" alt="DotNet" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"></a>
-   <a href="#"><img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-   <a href="#"><img align="center" alt="SQLServer" height="40" width="50" src="http://code.benco.io/icon-collection/azure-icons/SQL-Server.svg"></a>
+   <a href="#"><img align="center" alt="Angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
+   <a href="#"><img align="center" alt="Oracle" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"></a>
 </div>
 
 ##
