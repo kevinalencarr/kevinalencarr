@@ -20,8 +20,10 @@
 </div>
 -->
 
-##
+## Tools
 
 <div> 
-    <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=csharp" />
+    <img align="center" alt="DOTNET" src="https://img.shields.io/badge/.NET-purple?style=for-the-badge&logo=csharp" />
+    <img align="center" alt="ANGULAR" src="https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular" />
+    <img align="center" alt="ORACLE" src="https://img.shields.io/badge/oracle-orange?style=for-the-badge&logo=oracle" />
 </div>
